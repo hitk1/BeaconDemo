@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorIceBeacon">#6ECFF5</color>
+    <color name="colorMintBeacon">#9FCDAE</color>
+    <color name="colorBlueberryBeacon">#2E3192</color>
+</resources>
